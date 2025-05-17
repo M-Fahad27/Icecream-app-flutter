@@ -15,7 +15,7 @@ class icecream_detailedview extends StatelessWidget {
         title: Text(
           icecream.flavour,
           style: const TextStyle(
-            color: Colors.white,
+            color: Colors.white70,
             fontWeight: FontWeight.bold,
             letterSpacing: 1.2,
           ),
