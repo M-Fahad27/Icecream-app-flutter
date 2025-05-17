@@ -1,0 +1,116 @@
+{
+    "items": [
+        {
+            "flavour": "Vanilla",
+            "description": "Classic vanilla ice cream made from fresh cream and real vanilla beans.",
+            "toppings": [
+                "Sprinkles",
+                "Chopped Nuts",
+                "Caramel Sauce"
+            ],
+            "price": 3.99,
+            "image": "https://www.davidlebovitz.com/wp-content/uploads/2009/02/Vanilla-ice-cream-recipe-cherry-compote-4.jpg",
+            "ingredients": [
+                {
+                    "type": "Base",
+                    "name": "Milk",
+                    "quantity": "200ml"
+                },
+                {
+                    "type": "Flavoring",
+                    "name": "Vanilla Extract",
+                    "quantity": "1 tsp"
+                },
+                {
+                    "type": "Sweetener",
+                    "name": "Sugar",
+                    "quantity": "50g"
+                }
+            ]
+        },
+        {
+            "flavour": "Chocolate",
+            "description": "Rich and creamy chocolate ice cream made with premium cocoa.",
+            "toppings": [
+                "Chocolate Chips",
+                "Whipped Cream",
+                "Fudge Sauce"
+            ],
+            "price": 4.49,
+            "image": "https://sugarpursuit.com/wp-content/uploads/2023/05/Chocolate-ice-cream-thumbnail.jpg",
+            "ingredients": [
+                {
+                    "type": "Base",
+                    "name": "Cream",
+                    "quantity": "200ml"
+                },
+                {
+                    "type": "Flavoring",
+                    "name": "Cocoa Powder",
+                    "quantity": "2 tbsp"
+                },
+                {
+                    "type": "Sweetener",
+                    "name": "Brown Sugar",
+                    "quantity": "60g"
+                }
+            ]
+        },
+        {
+            "flavour": "Strawberry",
+            "description": "Sweet and fruity strawberry ice cream made with real strawberries.",
+            "toppings": [
+                "Fresh Strawberries",
+                "White Chocolate Shavings",
+                "Strawberry Syrup"
+            ],
+            "price": 4.29,
+            "image": "https://homebakedbliss.com/wp-content/uploads/2016/06/DSC_0011-1.jpg.webp",
+            "ingredients": [
+                {
+                    "type": "Base",
+                    "name": "Milk",
+                    "quantity": "180ml"
+                },
+                {
+                    "type": "Fruit",
+                    "name": "Strawberries",
+                    "quantity": "100g"
+                },
+                {
+                    "type": "Sweetener",
+                    "name": "Sugar",
+                    "quantity": "50g"
+                }
+            ]
+        },
+        {
+            "flavour": "Mint Chocolate",
+            "description": "Refreshing mint ice cream with chocolate chips mixed throughout.",
+            "toppings": [
+                "Mint Leaves",
+                "Chocolate Shavings",
+                "Crushed Cookies"
+            ],
+            "price": 4.59,
+            "image": "https://bakerstable.net/wp-content/uploads/2023/03/no-cook-mint-chocolate-chip-ice-cream-15-e1678315622631.jpg",
+            "ingredients": [
+                {
+                    "type": "Base",
+                    "name": "Cream",
+                    "quantity": "200ml"
+                },
+                {
+                    "type": "Flavoring",
+                    "name": "Mint Extract",
+                    "quantity": "1 tsp"
+                },
+                {
+                    "type": "Add-in",
+                    "name": "Chocolate Chips",
+                    "quantity": "30g"
+                }
+            ]
+        }
+    ]
+}
